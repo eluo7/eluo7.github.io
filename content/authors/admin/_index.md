@@ -86,7 +86,7 @@ work:
 awards:
   - title: 物流全流程理赔风险管控系统
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2017-07-01'
     awarder: Coursera
     icon: coursera
     summary: |
