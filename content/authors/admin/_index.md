@@ -53,7 +53,7 @@ education:
     summary: |
       GPA: 3.5/4.0
 
-      奖项: 优秀毕业生论文 | 国家奖学金
+      杰出荣誉: 优秀毕业生论文 | 国家奖学金
 work:
   - position: 机器学习高级工程师
     company_name: 顺丰科技有限公司
