@@ -45,10 +45,7 @@ education:
     summary: |
       GPA: 3.5/4.0
 
-      核心课程:
-      - Artificial Intelligence
-      - Computational Data Analysis
-      - Modeling and Simulation
+      核心课程: Artificial Intelligence | Computational Data Analysis | Modeling and Simulation
   - area: 土木工程 本科
     institution: 华南理工大学
     date_start: 2010-09-01
@@ -56,9 +53,7 @@ education:
     summary: |
       GPA: 3.5/4.0
 
-      奖项:
-      - 优秀毕业论文（典型城市风气候分析及其在建筑抗风中的应用）
-      - 国家奖学金
+      奖项: 优秀毕业生论文 | 国家奖学金
 work:
   - position: 机器学习高级工程师
     company_name: 顺丰科技有限公司
@@ -130,7 +125,7 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-projects:
+awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
