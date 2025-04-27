@@ -68,7 +68,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-07
-    date_end: 'now'
+    date_end: ''
     summary: |
       Responsibilities include:
         - 主导公司业务安全风控算法的研发工作，涵盖但不限于物流揽收、运输、派送等环节中的用户画像构建、账号信用体系搭建、黑灰产挖掘分析、支付风险防控等问题的研究与落地实施。
