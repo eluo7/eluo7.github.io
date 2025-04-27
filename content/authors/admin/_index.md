@@ -83,8 +83,6 @@ work:
         - 运用数据挖掘技术，深度分析产品使用痛点、安全隐患及用户潜在需求，输出数据驱动的产品迭代策略，助力安防解决方案优化升级。
         - 运用空间数据分析与建模技术，结合场地监控覆盖范围、设备性能参数等数据，优化安防设备布局与预警算法，提升区域安全管理效率与风险响应能力。
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -116,6 +114,40 @@ skills:
         description: ''
         percent: 80
         icon: camera
+  
+# # Skills
+# # Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: devicon/python
+#       - name: RStudio
+#         description: ''
+#         percent: 100
+#         icon: devicon/rstudio
+#       - name: PyTorch
+#         description: ''
+#         percent: 40
+#         icon: devicon/pytorch
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
 # languages:
 #   - name: English
