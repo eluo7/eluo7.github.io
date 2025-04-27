@@ -63,28 +63,29 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 机器学习高级工程师
+    company_name: SF Tech
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-07
+    date_end: 'now'
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - 主导公司业务安全风控算法的研发工作，涵盖但不限于物流揽收、运输、派送等环节中的用户画像构建、账号信用体系搭建、黑灰产挖掘分析、支付风险防控等问题的研究与落地实施。
+        - 深入剖析物流业务的形态和特性，精准定义物流业务中的各类风险场景，明确风险管控的合理边界和目标，在有效防控风险的同时，确保业务收益的最大化。
+        - 构建并落地从风险发现到拦截处置效果追踪的全流程解决方案，为物流业务提供基础的风险识别能力和前置拦截能力，保障业务安全稳定运行。
+        - 积极协调内部横向团队，与产品、研发等部门密切协同，共同推进防控方案的落地实施，从风险识别精准度、打击效果、用户体验等多个维度不断完善风控体系。
+  - position: 解决方案架构师
+    company_name: Southeastern Security Professionals, LLC
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-12
+    date_end: 2015-07
+    summary: |
+      Responsibilities include:
+        - 负责安防网络与数据库的智能化管理，通过机器学习算法分析监控视频流、设备日志等数据，优化网络传输效率与数据存储安全性。
+        - 运用数据挖掘技术，深度分析产品使用痛点、安全隐患及用户潜在需求，输出数据驱动的产品迭代策略，助力安防解决方案优化升级。
+        - 运用空间数据分析与建模技术，结合场地监控覆盖范围、设备性能参数等数据，优化安防设备布局与预警算法，提升区域安全管理效率与风险响应能力。
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
