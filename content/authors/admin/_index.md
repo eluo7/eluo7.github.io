@@ -84,13 +84,20 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: 物流全流程理赔风险管控系统
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      项目背景：针对快递揽件、运输、理赔全流程中理赔风险分散、原因复杂的痛点，基于海量快递理赔数据，构建多维度实体画像，实现理赔风险的识别预警与策略管控。  
+
+      核心职责与成果：
+      1. 多维度实体画像构建：主导收寄件客户、托寄物、运输网点等5类核心实体画像体系搭建，通过整合历史理赔数据、用户行为数据及物流轨迹数据，提炼200+核心特征，完成客户信用评估、托寄物风险分级等关键画像模块，为风险分析提供数据支撑。  
+      2. 智能风控模型开发：针对托寄物地域特性差异，创新采用分区域建模策略，对海南生鲜、江苏大闸蟹等特色寄递区域，结合XGBoost与随机森林算法，优化特征权重分配与模型参数，使区域化理赔风险预测准确率提升至92%，高于行业平均水平15%。  
+      3. 全流程风险防控落地：设计“模型预警 - 拦截处置”闭环方案，将理赔风险预警值转化为业务操作指令，推动揽件端开箱拍照、实名认证等8项风控措施落地，实现理赔率下降xx%，年节省理赔成本超xxxx万元；主导模型持续迭代，通过动态特征优化与算法升级，保持系统长期领先性能。  
+      4. 专利与技术沉淀：作为核心发明人，申请《一种基于 XGBOOST 算法的快件理赔预警技术》（专利号 201810067080.0）、《基于随机森林算法的理赔预警模型》（专利号 201810067068.X）等多项发明专利，形成标准化风控建模与业务联动方案。
+
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
