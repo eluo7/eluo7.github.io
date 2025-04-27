@@ -42,8 +42,8 @@ profiles:
 education:
   - area: MEng Computational Science and Engineering
     institution: Georgia Institute of Technology
-    date_start: 2015-08
-    date_end: 2017-05
+    date_start: 2015-08-01
+    date_end: 2017-05-01
     summary: |
       GPA: 3.5/4.0
 
@@ -53,8 +53,8 @@ education:
       - Modeling and Simulation
   - area: BEng Civil Engineering
     institution: South China University of Technology
-    date_start: 2010-09
-    date_end: 2024-07
+    date_start: 2010-09-01
+    date_end: 2024-07-01
     summary: |
       GPA: 3.5/4.0
       
@@ -79,8 +79,8 @@ work:
     company_name: Southeastern Security Professionals, LLC
     company_url: ''
     company_logo: ''
-    date_start: 2014-12
-    date_end: 2015-07
+    date_start: 2014-12-01
+    date_end: 2015-07-01
     summary: |
       Responsibilities include:
         - 负责安防网络与数据库的智能化管理，通过机器学习算法分析监控视频流、设备日志等数据，优化网络传输效率与数据存储安全性。
