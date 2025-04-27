@@ -36,7 +36,7 @@ profiles:
     url: https://github.com/eluo7
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
+  - icon: brands/wechat
     url: https://www.instagram.com/
 
 education:
@@ -57,6 +57,7 @@ education:
     date_end: 2024-07-01
     summary: |
       GPA: 3.5/4.0
+
       奖项:
       - 优秀毕业论文（典型城市风气候分析及其在建筑抗风中的应用）
       - 国家奖学金
@@ -87,35 +88,7 @@ work:
 
 skills:
   - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
   
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
