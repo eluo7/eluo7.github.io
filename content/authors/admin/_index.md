@@ -40,22 +40,24 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: 计算机科学与工程-硕士
+  - area: 计算机科学与工程 硕士
     institution: Georgia Institute of Technology
     date_start: 2015-08-01
     date_end: 2017-05-01
     summary: |
       GPA: 3.5/4.0
+
       核心课程:
       - Artificial Intelligence
       - Computational Data Analysis
       - Modeling and Simulation
-  - area: 本科
+  - area: 土木工程 本科
     institution: 华南理工大学
     date_start: 2010-09-01
     date_end: 2024-07-01
     summary: |
       GPA: 3.5/4.0
+      奖项:
       - 优秀毕业论文（典型城市风气候分析及其在建筑抗风中的应用）
       - 国家奖学金
 work:
