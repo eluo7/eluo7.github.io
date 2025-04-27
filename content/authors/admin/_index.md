@@ -87,7 +87,7 @@ awards:
   - title: 物流全流程理赔风险管控系统
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2017-07-01'
-    awarder: Coursera
+    awarder: SF Tech
     icon: coursera
     summary: |2-
       项目背景：针对快递揽件、运输、理赔全流程中理赔风险分散、原因复杂的痛点，基于海量快递理赔数据，构建多维度实体画像，实现理赔风险的识别预警与策略管控。  
