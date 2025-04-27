@@ -67,7 +67,7 @@ work:
     company_name: SF Tech
     company_url: ''
     company_logo: ''
-    date_start: 2017-07
+    date_start: 2017-07-01
     date_end: ''
     summary: |
       Responsibilities include:
