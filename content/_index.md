@@ -37,10 +37,10 @@ sections:
   #   content:
   #     title: Skills & Hobbies
   #     username: admin
-  # - block: adwards
-  #   content:
-  #     title: Adwards
-  #     username: admin
+  - block: adwards
+    content:
+      title: Projects
+      username: admin
   # - block: languages
   #   content:
   #     title: Languages
