@@ -90,21 +90,20 @@ awards:
     awarder: SF Tech
     icon: coursera
     summary: |
-      - 多维度实体画像构建：主导收寄件客户、托寄物、运输网点等5类核心实体画像体系搭建，通过整合历史理赔数据、用户行为数据及物流轨迹数据，提炼200+核心特征，完成客户信用评估、托寄物风险分级等关键画像模块，为风险分析提供数据支撑。
-      - 智能风控模型开发：针对托寄物地域特性差异，创新采用分区域建模策略，对海南生鲜、江苏大闸蟹等特色寄递区域，结合XGBoost与随机森林算法，优化特征权重分配与模型参数，使区域化理赔风险预测准确率提升至92%，高于行业平均水平15%。
-      - 全流程风险防控落地：设计“模型预警 - 拦截处置”闭环方案，将理赔风险预警值转化为业务操作指令，推动揽件端开箱拍照、实名认证等8项风控措施落地，实现理赔率下降xx%，年节省理赔成本超xxxx万元；主导模型持续迭代，通过动态特征优化与算法升级，保持系统长期领先性能。
-      - 专利与技术沉淀：作为核心发明人，申请《一种基于 XGBOOST 算法的快件理赔预警技术》（专利号 201810067080.0）、《基于随机森林算法的理赔预警模型》（专利号 201810067068.X）等多项发明专利，形成标准化风控建模与业务联动方案。
+      - 多维度实体画像构建：主导收寄件客户、托寄物、运输网点等5类核心实体画像体系搭建，通过整合历史理赔数据、用户行为数据及物流轨迹数据，提炼核心特征，为风险分析提供数据支撑。
+      - 智能风控模型开发：采用K-Means聚类算法与业务经验对客户进行分层，结合XGBoost与随机森林算法，优化特征权重分配与模型参数，使区域化理赔风险预测准确率提升，高于行业平均水平。模型持续迭代，通过动态特征优化与算法升级，保持系统长期领先性能。
+      - 全流程风险防控落地：设计“模型预警 - 拦截处置”闭环方案，将理赔风险预警值转化为业务操作指令，推动揽件端开箱拍照、实名认证等8项风控措施落地，实现理赔率下降，节省理赔成本；主导
+      - 专利与技术沉淀：作为核心发明人，申请《一种基于 XGBOOST 算法的快件理赔预警技术》（专利号 201810067080.0）、《基于随机森林算法的理赔预警模型》（专利号 201810067068.X）等多项发明专利。
 
-  - title: Blockchain Fundamentals
+  - title: 企业关联网络构建与应用
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2022-07-01'
+    date: '2024-07-01'
     awarder: SF Tech
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - 多源数据整合与处理：数据整合与处理：对接天眼查、文投等第三方数据源，获取股权关系、诉讼信息等类企业数据，编写数据清洗脚本，通过正则表达式、数据标准化等技术，完成百万级数据清洗，数据准确率提升。
+      - 关联网络构建与算法实现：通过图数据库 Neo4j 构建企业关联关系网络，实现外部企业数据与内部客户信息的深度融合，成功构建集团 ID 体系，覆盖 99% 以上集团客户，精准识别企业间复杂关联关系。​
+      - 业务场景深度应用：将企业关联网络成果应用于风险预警与客户准入，通过可视化分析风险传导路径，使风险预警准确率提升；优化客户准入流程，减少人工审核工作量，有效降低业务运营风险。
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
