@@ -32,10 +32,12 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/github
+  - icon: testicon # 修改这里，测试自定义SVG
     url: https://github.com/eluo7
+    label: My GitHub (Test) # 可以临时加个label区分
   - icon: brands/linkedin
     url: https://www.linkedin.com/
+    
 
 education:
   - area: 计算机科学与工程 硕士
@@ -88,7 +90,7 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2017-07-01'
     awarder: SF Tech
-    icon: sftech
+    icon: fas fa-trophy # 修改这里，尝试一个 Font Awesome 图标
     summary: |
       - 风险分层与策略优化  
       运用RFM模型结合K-Means聚类算法，完成客户风险分层（低/中/高风险）。针对低风险客户，通过策略引擎实现快赔服务，理赔时效显著提升；中高风险客户采用“算法评估+人工复核”模式，优化资源分配效率。  
