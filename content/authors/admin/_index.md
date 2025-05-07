@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: testicon # 修改这里，测试自定义SVG
+  - icon: datacamp # 修改这里，测试自定义SVG
     url: https://github.com/eluo7
     label: My GitHub (Test) # 可以临时加个label区分
   - icon: brands/linkedin
@@ -130,5 +130,3 @@ awards:
 ---
 
 拥有8年以上AI和机器学习经验，不仅专注于算法模型构建与大数据处理技术，更擅长深入理解业务需求，通过跨部门协作、项目统筹与持续优化，将技术成果转化为实际业务价值，为企业业务风险防控与发展决策提供全方位支持。
-
-
