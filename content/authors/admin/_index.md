@@ -123,20 +123,20 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 85
         icon: devicon/python
       - name: Spark
         description: ''
-        percent: 100
+        percent: 90
         icon: devicon/spark
       - name: PyTorch
         description: ''
-        percent: 100
-        icon: devicon/hive
+        percent: 75
+        icon: devicon/pytorch
 
   - name: Hobby
     color: '#ffffff'
-    color_border: '#f0bf23'
+    color_border: '#ffffff'
     items:
       - name: Hiking
         description: ''
