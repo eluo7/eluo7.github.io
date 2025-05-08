@@ -36,7 +36,6 @@ profiles:
     url: https://github.com/eluo7
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-    
 
 education:
   - area: 计算机科学与工程 硕士
@@ -79,7 +78,6 @@ work:
         - 负责安防网络与数据库的智能化管理，通过机器学习算法分析监控视频流、设备日志等数据，优化网络传输效率与数据存储安全性。
         - 运用数据挖掘技术，深度分析产品使用痛点、安全隐患及用户潜在需求，输出数据驱动的产品迭代策略，助力安防解决方案优化升级。
         - 运用空间数据分析与建模技术，结合场地监控覆盖范围、设备性能参数等数据，优化安防设备布局与预警算法，提升区域安全管理效率与风险响应能力。
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
