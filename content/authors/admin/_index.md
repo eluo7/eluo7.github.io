@@ -32,6 +32,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
+  - icon: brands/gtihub
+    url: https://github.com/eluo7
   - icon: brands/linkedin
     url: https://www.linkedin.com/
     
@@ -90,8 +92,8 @@ awards:
     icon: fas fa-trophy # 修改这里，尝试一个 Font Awesome 图标
     summary: |
       - 风险分层与策略优化  
-      运用RFM模型结合K-Means聚类算法，完成客户风险分层（低/中/高风险）。针对低风险客户，通过策略引擎实现快赔服务，理赔时效显著提升；中高风险客户采用“算法评估+人工复核”模式，优化资源分配效率。 
-      
+      运用RFM模型结合K-Means聚类算法，完成客户风险分层（低/中/高风险）。针对低风险客户，通过策略引擎实现快赔服务，理赔时效显著提升；中高风险客户采用“算法评估+人工复核”模式，优化资源分配效率。  
+
       - 智能预测模型构建  
       主导用户画像特征工程，整合多源数据提炼核心特征，运用XGBoost等算法搭建子模型并融合优化，结合逻辑回归输出风险概率。经AB测试调优，模型准确率大幅提升，成功实现模型应用落地。  
 
@@ -105,7 +107,7 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-07-01'
     awarder: SF Tech
-    icon: datacamp
+    icon: apple-color-svgrepo-com
     summary: |
       - 多源数据整合与处理  
       对接天眼查、文投等第三方数据源，获取股权关系、诉讼信息等类企业数据，编写数据清洗脚本，通过正则表达式、数据标准化等技术，完成百万级数据清洗，数据准确率提升。
