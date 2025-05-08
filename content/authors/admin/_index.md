@@ -127,11 +127,11 @@ skills:
       - name: RStudio
         description: ''
         percent: 100
-        icon: devicon/sftech
+        icon: devicon/hive
       - name: PyTorch
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/spark
 ---
 
 拥有8年以上AI和机器学习经验，不仅专注于算法模型构建与大数据处理技术，更擅长深入理解业务需求，通过跨部门协作、项目统筹与持续优化，将技术成果转化为实际业务价值，为企业业务风险防控与发展决策提供全方位支持。
