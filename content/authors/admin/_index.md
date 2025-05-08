@@ -34,8 +34,6 @@ profiles:
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/eluo7
-  - icon: brands/sftech
-    url: https://www.linkedin.com/
 
 education:
   - area: 计算机科学与工程 硕士
@@ -87,7 +85,7 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2017-07-01'
     awarder: SF Tech
-    icon: custom/apple
+    icon: brands/sftech
     summary: |
       - 风险分层与策略优化  
       运用RFM模型结合K-Means聚类算法，完成客户风险分层（低/中/高风险）。针对低风险客户，通过策略引擎实现快赔服务，理赔时效显著提升；中高风险客户采用“算法评估+人工复核”模式，优化资源分配效率。  
@@ -105,7 +103,7 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-07-01'
     awarder: SF Tech
-    icon: custom/icon
+    icon: brands/sftech
     summary: |
       - 多源数据整合与处理  
       对接天眼查、文投等第三方数据源，获取股权关系、诉讼信息等类企业数据，编写数据清洗脚本，通过正则表达式、数据标准化等技术，完成百万级数据清洗，数据准确率提升。
