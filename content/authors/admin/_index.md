@@ -124,7 +124,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 85
+        percent: 80
         icon: devicon/python
       - name: Spark
         description: ''
