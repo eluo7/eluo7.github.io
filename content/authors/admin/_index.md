@@ -34,7 +34,6 @@ profiles:
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/eluo7
-
 education:
   - area: 计算机科学与工程 硕士
     institution: Georgia Institute of Technology
@@ -98,7 +97,6 @@ awards:
 
       - 专利与技术沉淀  
       作为核心发明人，申请《一种基于 XGBOOST 算法的快件理赔预警技术》（专利号 201810067080.0）、《基于随机森林算法的理赔预警模型》（专利号 201810067068.X）等多项发明专利。
-
   - title: 企业关联网络构建与应用
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-07-01'
@@ -114,14 +112,39 @@ awards:
       - 业务场景深度应用  
       将企业关联网络成果应用于风险预警与客户信用风险评级，通过可视化分析风险传导路径，使风险预警准确率提升；同时结合关联特征，提高信用评级模型的精准度和可靠性，为企业账期、信用额度的确定提供依据。
 
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: brands/sftech
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: devicon/python
+      - name: RStudio
+        description: ''
+        percent: 100
+        icon: devicon/rstudio
+      - name: PyTorch
+        description: ''
+        percent: 40
+        icon: devicon/pytorch
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 ---
 
 拥有8年以上AI和机器学习经验，不仅专注于算法模型构建与大数据处理技术，更擅长深入理解业务需求，通过跨部门协作、项目统筹与持续优化，将技术成果转化为实际业务价值，为企业业务风险防控与发展决策提供全方位支持。
