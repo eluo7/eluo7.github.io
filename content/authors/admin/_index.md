@@ -132,6 +132,22 @@ skills:
         description: ''
         percent: 40
         icon: devicon/spark
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 ---
 
 拥有8年以上AI和机器学习经验，不仅专注于算法模型构建与大数据处理技术，更擅长深入理解业务需求，通过跨部门协作、项目统筹与持续优化，将技术成果转化为实际业务价值，为企业业务风险防控与发展决策提供全方位支持。
