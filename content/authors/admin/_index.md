@@ -87,7 +87,7 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2017-07-01'
     awarder: SF Tech
-    icon: custom/sftech
+    icon: custom/apple
     summary: |
       - 风险分层与策略优化  
       运用RFM模型结合K-Means聚类算法，完成客户风险分层（低/中/高风险）。针对低风险客户，通过策略引擎实现快赔服务，理赔时效显著提升；中高风险客户采用“算法评估+人工复核”模式，优化资源分配效率。  
