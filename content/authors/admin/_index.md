@@ -118,21 +118,21 @@ awards:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical Skill
     items:
       - name: Python
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: Spark
         description: ''
         percent: 100
-        icon: devicon/hive
+        icon: devicon/spark
       - name: PyTorch
         description: ''
         percent: 40
-        icon: devicon/spark
-  - name: Hobbies
+        icon: devicon/hive
+  - name: Hobby
     color: '#eeac02'
     color_border: '#f0bf23'
     items:

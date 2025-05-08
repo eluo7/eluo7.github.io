@@ -39,7 +39,7 @@ sections:
       username: admin
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skill & Hobby
       username: admin
   # - block: languages
   #   content:
