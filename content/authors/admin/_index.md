@@ -34,6 +34,7 @@ profiles:
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/eluo7
+
 education:
   - area: 计算机科学与工程 硕士
     institution: Georgia Institute of Technology
@@ -51,6 +52,7 @@ education:
       GPA: 3.5/4.0
 
       杰出荣誉: 优秀毕业生论文 | 国家奖学金
+
 work:
   - position: 机器学习高级工程师
     company_name: 顺丰科技有限公司
@@ -81,7 +83,7 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 物流理赔风险管控
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://www.sf-tech.com.cn/
     date: '2017-07-01'
     awarder: SF Tech
     icon: brands/sftech
@@ -97,8 +99,9 @@ awards:
 
       - 专利与技术沉淀  
       作为核心发明人，申请《一种基于 XGBOOST 算法的快件理赔预警技术》（专利号 201810067080.0）、《基于随机森林算法的理赔预警模型》（专利号 201810067068.X）等多项发明专利。
+
   - title: 企业关联网络构建与应用
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.sf-tech.com.cn/
     date: '2024-07-01'
     awarder: SF Tech
     icon: brands/sftech
