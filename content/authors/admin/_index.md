@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/gtihub
+  - icon: brands/github
     url: https://github.com/eluo7
   - icon: brands/linkedin
     url: https://www.linkedin.com/
