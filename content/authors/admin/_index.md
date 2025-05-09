@@ -87,10 +87,9 @@ awards:
     url: https://www.sf-tech.com.cn/
     date: '2017-07-01'
     awarder: SF Tech
-    icon: brands/sftech
+    icon: brands/sftech2
     summary: |
       - **风险分层与策略优化**  
-      - <span style="color: white">**风险分层与策略优化**</span>  
       运用 RFM 模型结合 K-Means 聚类算法，完成客户风险分层（低/中/高风险）。针对低风险客户，通过策略引擎实现快赔服务，理赔时效显著提升；中高风险客户采用“算法评估+人工复核”模式，优化资源分配效率。
 
       - **智能预测模型构建**  
