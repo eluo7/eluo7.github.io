@@ -83,9 +83,10 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 物流理赔风险管控
+  - title: 物流理赔风险预测
     url: https://www.sf-tech.com.cn/
     date: '2017-07-01'
+    certificate_url: https://www.datacamp.com
     awarder: SF Tech
     icon: brands/sftech
     summary: |
@@ -116,7 +117,7 @@ awards:
       - 业务场景深度应用  
       将企业关系网络成果应用于风险预警与客户信用风险评级，通过可视化分析风险传导路径，使风险预警准确率提升；同时结合关系特征，提高信用评级模型的精准度和可靠性，为企业账期、信用额度的确定提供依据。
 
-  - title: 客户信用风险评级模型
+  - title: 客户信用评级模型
     url: https://www.sf-tech.com.cn/
     date: '2025-04-01'
     awarder: SF Tech
