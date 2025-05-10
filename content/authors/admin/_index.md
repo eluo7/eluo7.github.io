@@ -70,7 +70,7 @@ work:
   - position: 解决方案架构师
     company_name: Southeastern Security Professionals, LLC
     company_url: https://www.sspro.biz/
-    company_logo: ''
+    company_logo: brands/ssp
     date_start: 2014-12-01
     date_end: 2015-07-01
     summary: |
