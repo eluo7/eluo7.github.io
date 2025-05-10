@@ -41,7 +41,7 @@ education:
     date_start: 2015-08-01
     date_end: 2017-05-01
     summary: |
-      GPA: 3.5/4.0
+      GPA: 3.7/4.0
 
       核心课程: Artificial Intelligence | Computational Data Analysis | Modeling and Simulation
   - area: 土木工程 本科
@@ -49,7 +49,7 @@ education:
     date_start: 2010-09-01
     date_end: 2024-07-01
     summary: |
-      GPA: 3.5/4.0
+      GPA: 3.7/4.0
 
       杰出荣誉: 优秀毕业生论文 | 国家奖学金
 
@@ -86,7 +86,6 @@ awards:
   - title: 物流理赔风险预测
     url: https://www.sf-tech.com.cn/
     date: '2017-07-01'
-    certificate_url: https://www.datacamp.com
     awarder: SF Tech
     icon: brands/sftech
     summary: |
