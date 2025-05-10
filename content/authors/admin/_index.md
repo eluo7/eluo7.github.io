@@ -30,8 +30,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:446042552@qq.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/eluo7
 
@@ -56,8 +56,8 @@ education:
 work:
   - position: 机器学习高级工程师
     company_name: 顺丰科技有限公司
-    company_url: ''
-    company_logo: ''
+    company_url: https://www.sf-tech.com.cn/
+    company_logo: brands/sftech
     date_start: 2017-07-01
     date_end: ''
     summary: |
@@ -69,7 +69,7 @@ work:
 
   - position: 解决方案架构师
     company_name: Southeastern Security Professionals, LLC
-    company_url: ''
+    company_url: https://www.sspro.biz/
     company_logo: ''
     date_start: 2014-12-01
     date_end: 2015-07-01
@@ -107,13 +107,13 @@ awards:
     awarder: SF Tech
     icon: brands/sftech
     summary: |
-      - **多源数据整合与处理**  
-      对接天眼查、文投等第三方数据源，获取股权关系、诉讼信息等类企业数据，编写数据清洗脚本，通过大模型 DeepSeek R1 等技术完成实体抽取，结构标准化，完成百万级数据清洗，数据准确率提升。
+      - 多源数据整合与处理  
+      对接天眼查、文投等第三方数据源，获取股权关系、诉讼信息等类企业数据，编写数据清洗脚本，通过大模型 DeepSeek 等技术完成实体抽取，结构标准化，完成百万级数据清洗，数据准确率提升。
       
-      - **关系网络构建与算法实现**  
+      - 关系网络构建与算法实现  
       通过图数据库 Neo4j 构建企业关系网络，实现外部企业数据与内部客户信息的深度融合，成功构建集团 ID 体系，实现集团客户的全域覆盖，精准识别企业间复杂关联关系。​
       
-      - **业务场景深度应用**  
+      - 业务场景深度应用  
       将企业关系网络成果应用于风险预警与客户信用风险评级，通过可视化分析风险传导路径，使风险预警准确率提升；同时结合关系特征，提高信用评级模型的精准度和可靠性，为企业账期、信用额度的确定提供依据。
 
   - title: 客户信用风险评级模型
@@ -122,13 +122,13 @@ awards:
     awarder: SF Tech
     icon: brands/sftech
     summary: |
-      - **模型架构设计**  
+      - 模型架构设计  
       基于客户分层与数据特征，设计行业、财务、行为三大子模型，通过加权平均与 Stacking 技术实现模型融合，输出综合信用评分，有效整合市场行情、财务状况及履约行为等评估维度。
       
-      - **算法选型与优化**  
+      - 算法选型与优化  
       对比逻辑回归、决策树、集成学习及深度学习等算法，结合业务需求，采用集成学习（ LightGBM / XGBoost ）平衡预测精度与可解释性；引入 AutoML 自动化完成特征工程与超参数调优，模型开发效率大大提升；运用 SHAP 、LIME 等可解释 AI 技术，解析模型决策逻辑，优化特征权重，降低行业风险指标的过度影响。
       
-      - **模型评估与落地**  
+      - 模型评估与落地  
       通过 AUC、PSI 等指标完成区分能力、稳定性评估；上线后监控逾期率、坏账率、回款周期等业务指标，较传统模型实现坏账率降低，资金回收效率提升，同时识别高价值客户贡献度增长，验证模型有效性与业务价值。
 
   - title: SF-Tech算法挑战赛
@@ -137,10 +137,10 @@ awards:
     awarder: SF Tech
     icon: brands/sftech
     summary: |
-      - **顺丰产品推荐模型（初赛）**  
+      - 顺丰产品推荐模型（初赛）  
       基于顺丰亿级运单数据，依据历史业务记录，实现客户适配的顺丰速运产品智能推荐。主导特征工程全流程，运用 LightGBM 模型进行算法训练，并采用样本平衡策略优化数据分布，最终通过 Docker 容器技术完成模型部署。
 
-      - **客服对话意图识别（决赛）**  
+      - 客服对话意图识别（决赛）  
       针对客服对话文本，运用自然语言处理技术，精准识别客户来电意图。负责实施对话文本多维度增强策略，以 BERT-base 模型为核心进行训练，并通过多模型融合优化效果，独立完成接收 API 请求的 client 端部署。
       
       - 赛事团队统筹与管理​  
